@@ -56,15 +56,12 @@ Check out some of my most exciting work.
 
 ## 🎓 Certifications
 
-### 📜 Certifications
 - 🧠 NPTEL – Joy of Computing Using Python  
 - 📊 NPTEL – Data Analytics with Python  
 - 🐍 NPTEL – Python for Data Science  
 - 🤖 IBM – Prompt Engineering for Everyone  
 - 🧾 CSC – Advanced Diploma in Python Programming.  
 - 📊 Power BI – 7-Day Micro Course  
-
-
 
 
 ## 📈 GitHub Stats
@@ -86,7 +83,6 @@ Check out some of my most exciting work.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gayathri-jayamurugan-068731267/)
 - 📫 Reach me at: **jgayathri327@gmail.com**
 - 🧠 [Kaggle](https://www.kaggle.com/gayu10)
-
 
 
 ---
